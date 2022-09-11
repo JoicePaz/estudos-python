@@ -5,8 +5,11 @@ Repositório para reunir informaçãoes sobre python que estou estudando atualme
 
 
 - Unidade 1
-  - [Lists](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/unidade-1-listas.py)
-  - [Tuples](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/Unidade%201/unidade-1-tuplas.py)
-  - [Dictionaries](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/Unidade%201/unidade-1-dicionarios.py)
-  - [Sets](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/Unidade%201/unidade-1-conjuntos.py)
-  - [Strings](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/Unidade%201/unidade-1-strings.py)
+  - Módulo 1
+    - [Lists](https://github.com/JoicePaz/estudos-python/blob/main/Unidade%201/M%C3%B3dulo%201/unidade-1-listas.py)
+    - [Tuples](https://github.com/JoicePaz/estudos-python/blob/main/Unidade%201/M%C3%B3dulo%201/unidade-1-tuplas.py)
+    - [Dictionaries](https://github.com/JoicePaz/estudos-python/blob/main/Unidade%201/M%C3%B3dulo%201/unidade-1-dicionarios.py)
+    - [Sets](https://github.com/JoicePaz/estudos-python/blob/main/Unidade%201/M%C3%B3dulo%201/unidade-1-conjuntos.py)
+    - [Strings](https://github.com/JoicePaz/estudos-python/blob/main/Unidade%201/M%C3%B3dulo%201/unidade-1-strings.py)
+  - Módulo 2
+    - [NdArrays](https://github.com/JoicePaz/estudos-python/blob/main/Unidade%201/M%C3%B3dulo%202/unidade-2-nd-arrays.py)
