@@ -8,3 +8,5 @@ Repositório para reunir informaçãoes sobre python que estou estudando atualme
   - [Lists](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/unidade-1-listas.py)
   - [Tuples](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/Unidade%201/unidade-1-tuplas.py)
   - [Dictionaries](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/Unidade%201/unidade-1-dicionarios.py)
+  - [Sets](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/Unidade%201/unidade-1-conjuntos.py)
+  - [Strings](https://github.com/JoicePaz/estudos-python/blob/main/M%C3%B3dulo%201/Unidade%201/unidade-1-strings.py)
